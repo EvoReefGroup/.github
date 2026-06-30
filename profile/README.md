@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="EvoReef Group logo" width="220"/>
+  <img src="../assets/logo.png" alt="EvoReef Group logo" width="220"/>
 
   # EvoReef Group
 
