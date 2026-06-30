@@ -26,8 +26,6 @@ EvoReef Group is a research lab studying the evolutionary biology and genomics o
 | `GATK+Parabricks` | Implementing Parabricks for GPU-accelerated genotype calling with GATK | active |
 | `analysis-name` | One-line description of analysis repo | active / archived |
 
-*(Add/remove rows as repos are created — keep this table as the front door to the org.)*
-
 ## People
 
 - Cynthia Riginos (PI)
