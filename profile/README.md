@@ -3,7 +3,7 @@
 
   # EvoReef Group
 
-  **Evolutionary biology &amp; genomics of corals**
+  **Evolutionary biology &amp; genomics of corals and other marine organisms**
 </div>
 
 ---
