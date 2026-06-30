@@ -23,21 +23,25 @@ EvoReef Group is a research lab studying the evolutionary biology and genomics o
 
 | Repository | Description | Status |
 |---|---|---|
-| `pipeline-name` | One-line description of pipeline/tool | active / archived |
-| `pipeline-name` | One-line description of pipeline/tool | active / archived |
+| `GATK+Parabricks` | Implementing Parabricks for GPU-accelerated genotype calling with GATK | active |
 | `analysis-name` | One-line description of analysis repo | active / archived |
 
 *(Add/remove rows as repos are created — keep this table as the front door to the org.)*
 
 ## People
 
+- Cynthia Riginos (PI)
+- ADD YOUR NAME HERE
 - Lorenzo Bertola
 - ADD YOUR NAME HERE
 
-## Publications
+## Highlighted publications
 
+- Denis et al. (2026) Holobiont population structure and adaptive potential of _Acropora spathulata_ [DOI/link](https://doi.org/10.1016/j.cub.2026.04.057)
+- Meziere et al. (2025) Connectivity differs by orders of magnitude among co-distributed corals [DOI/link](https://doi.org/10.1126/sciadv.adt206)
 - Riginos et al. (2024) Cryptic species and hybridisation in corals [DOI/link](https://doi.org/10.24072/pcjournal.492)
+- Bairos-Novak et al. (2021) Meta-analysis of heritability of coral traits [DOI/link](https://doi.org/10.1111/gcb.15829)
 
 ## Contact & collaboration
 
-Interested in collaborating, using our pipelines, or have questions about our work? Reach out via [lab website / email / contact method].
+Interested in collaborating, using our pipelines, or have questions about our work? Reach out via to our institutional emails (these can be found through our official institution pages).
