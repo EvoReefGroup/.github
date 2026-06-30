@@ -10,13 +10,18 @@
 
 ## Who we are
 
-EvoReef Group is a research lab studying the evolutionary biology and genomics of corals — from population structure and local adaptation to thermal tolerance and the genomic basis of resilience on changing reefs. We combine fieldwork, genomic data, and computational pipelines to understand how coral populations evolve and persist under environmental change.
+The EvoReef group is an interdisciplinary team investigating eco-evolutionary processes in natural coral populations from the Great Barrier Reef using genetic and genomic data and associated physiological and environmental datasets, originally generated under Reef Restoration and Adaptation Project (RRAP) funding. This group includes researchers, students, technicians and project managers.
+
+## Scientific mission
+
+Our aim is to advance understanding of coral biology through the genetic lens to enhance the resilience of future coral reefs. We combine knowledge from physiology, evolutionary biology, ecology and use cutting-edge genomic analyses to advance understanding of coral adaptation and evolutionary resilience. The genomic data that we have and continue to collect and continue to produce provide a rich resource towards increasing fundamental knowledge and toinform strategies for reef restoration and genetic monitoring.
 
 ## Research themes
 
-- **Population genomics** — population structure, connectivity, and gene flow across reef systems
-- **Thermal tolerance & adaptation** — genomic and physiological basis of heat tolerance, dose-response modelling of thermal stress
+- **Population genomics** — population structure, genetic diversity, and gene flow across spatial scales
+- **Thermal tolerance** — genomic and physiological basis of heat tolerance, dose-response modelling of thermal stress
 - **Local adaptation** — environmental association analyses and signatures of selection
+- **Conservation genomics** — application of evolutionary principles for reef conservation and restoration
 - **Bioinformatics & pipeline development** — scalable genomics pipelines for non-model coral species (variant calling, GWAS, heritability)
 
 ## Repositories & pipelines
@@ -29,7 +34,8 @@ EvoReef Group is a research lab studying the evolutionary biology and genomics o
 ## People
 
 - Cynthia Riginos (PI)
-- ADD YOUR NAME HERE
+- Iva Popovic
+- Zoe Meziere
 - Lorenzo Bertola
 - ADD YOUR NAME HERE
 
