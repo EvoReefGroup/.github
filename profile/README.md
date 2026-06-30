@@ -10,7 +10,7 @@
 
 ## Who we are
 
-The EvoReef group is an interdisciplinary team investigating eco-evolutionary processes in natural coral populations from the Great Barrier Reef using genetic and genomic data and associated physiological and environmental datasets, originally generated under Reef Restoration and Adaptation Project (RRAP) funding. This group includes researchers, students, technicians and project managers.
+The EvoReef group is an interdisciplinary team investigating eco-evolutionary processes in natural coral populations from the Great Barrier Reef. We use genetic and genomic data and associated physiological and environmental datasets, originally generated under Reef Restoration and Adaptation Project (RRAP) funding. This group includes researchers, students, technicians and project managers.
 
 ## Scientific mission
 
