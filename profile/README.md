@@ -37,6 +37,7 @@ Our aim is to advance understanding of coral biology through the genetic lens to
 - Iva Popovic
 - Zoe Meziere
 - Lorenzo Bertola
+- - Ilha Byrne
 - ADD YOUR NAME HERE
 
 ## Highlighted publications
